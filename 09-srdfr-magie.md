@@ -972,7 +972,7 @@ Aspersion acide
 Bouffée de poison
 Contact glacial
 Coup au but
-_Illusion mineure_
+Illusion mineure
 Lumière
 Lumières dansantes
 Main du mage
@@ -1125,7 +1125,7 @@ Aspersion acide
 Bouffée de poison
 Contact glacial
 Coup au but
-_Illusion mineure_
+Illusion mineure
 Lumière
 Lumières dansantes
 Main du mage
@@ -1364,7 +1364,7 @@ Bouffée de poison
 Contact glacial
 Coup au but
 Décharge occulte
-_Illusion mineure_
+Illusion mineure
 Main du mage
 Prestidigitation
 
